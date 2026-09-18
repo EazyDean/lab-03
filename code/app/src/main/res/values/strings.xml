@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">ListyCity3</string>
+    <string name="city">City</string>
+    <string name="province">Province</string>
+    <string name="add_city">Add City</string>
+    <string name="update_city">Update City</string>
+    <string name="cancel">Cancel</string>
+    <string name="edit_city">Edit %1$s</string>
 </resources>
